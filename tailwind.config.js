@@ -34,6 +34,9 @@ module.exports = {
         'card': '0px 12px 84px rgba(29, 41, 63, 0.119946)',
         'shadmoon':  '0px 10px 10px -5px rgba(16, 24, 40, 0.03)',
       },
+      width: {
+        '45%': '45%'
+      }
     },
   },
   plugins: [],
